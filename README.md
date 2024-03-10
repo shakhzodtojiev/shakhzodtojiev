@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey! I'm [@shakhzodtojiev](https://twitter.com/shakhzodtojiev) (Shakhzod Tojiev) 👋
 
-<!--
-**shakhzodtojiev/shakhzodtojiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from Uzbekistan. 🇺🇿
 
-Here are some ideas to get you started:
+I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+You can find me on:
+
+* [Twitter as @shakhzodtojiev](https://twitter.com/shakhzodtojiyev)
+* [GitLab as @shakhzodtojiev](https://gitlab.com/shakhzodtojiev)
+* [YouTube as @discoveriespage](https://www.youtube.com/c/discoveriespage)
+* [LinkedIn as @shakhzodtojiev](https://www.linkedin.com/in/shakhzodtojiev)
+* [Medium as @shakhzodtojiev](https://medium.com/@shakhzodtojiev)
+* [Dev.to as @shakhzodtojiev](https://dev.to/shakhzodtojiev)
