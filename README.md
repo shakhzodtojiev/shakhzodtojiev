@@ -12,4 +12,4 @@ You can find me on:
 * [LinkedIn as @shakhzodtojiev](https://www.linkedin.com/in/shakhzodtojiev)
 * [Medium as @shakhzodtojiev](https://medium.com/@shakhzodtojiev)
 * [Dev.to as @shakhzodtojiev](https://dev.to/shakhzodtojiev)
-* [YouTube as @discoveriespage](https://www.youtube.com/c/shakhzodtojievuz)
+* [YouTube as @shakhzodtojievuz](https://www.youtube.com/c/shakhzodtojievuz)
