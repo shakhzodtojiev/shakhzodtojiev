@@ -7,9 +7,9 @@ I like to build things with Deep Learning/Machine Learning, distributed systems,
 
 You can find me on:
 
-* [Twitter as @shakhzodtojiev](https://twitter.com/shakhzodtojiyev)
+* [Telegram as @shakhzodtojiev](https://t.me/shakhzodtojiev)
+* [Twitter as @shakhzodtojiev](https://twitter.com/shakhzodtojiev)
 * [GitLab as @shakhzodtojiev](https://gitlab.com/shakhzodtojiev)
 * [LinkedIn as @shakhzodtojiev](https://www.linkedin.com/in/shakhzodtojiev)
 * [Medium as @shakhzodtojiev](https://medium.com/@shakhzodtojiev)
 * [Dev.to as @shakhzodtojiev](https://dev.to/shakhzodtojiev)
-* [YouTube as @shakhzodtojievuz](https://www.youtube.com/@shakhzodtojievuz)
