@@ -1,15 +1,1 @@
-### Hey! I'm [@shakhzodtojiev](https://twitter.com/shakhzodtojiev) (Shakhzod Tojiev) 👋
-
-I'm a software developer from Uzbekistan. 🇺🇿
-
-I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
-
-
-You can find me on:
-
-* [Telegram as @shakhzodtojiev](https://t.me/shakhzodtojiev)
-* [Twitter as @shakhzodtojiev](https://twitter.com/shakhzodtojiev)
-* [GitLab as @shakhzodtojiev](https://gitlab.com/shakhzodtojiev)
-* [LinkedIn as @shakhzodtojiev](https://www.linkedin.com/in/shakhzodtojiev)
-* [Medium as @shakhzodtojiev](https://medium.com/@shakhzodtojiev)
-* [Dev.to as @shakhzodtojiev](https://dev.to/shakhzodtojiev)
+Founder of Vazifa Soft and NOC Engineer at the Digital Government Center, I bring over 5 years of programming and IT expertise as a passionate Python developer. I specialize in building efficient, scalable applications with skills in backend development, database management, API integration, Deep Learning/Machine Learning, Distributed Systems, Docker, TypeScript/JavaScript, and modern frontend/backend frameworks. Collaborative, detail-oriented, and committed to leveraging cutting-edge tech to drive innovation.
